@@ -14,7 +14,7 @@ I'm **Suyash Bhawsar**, a **Freelance DevOps Engineer and Linux System Administr
   **Linux Administration** and **Cloud Automation** projects.
 
 - 📫 **Reach me at:**  
-  [LinkedIn](https://www.linkedin.com/in/suyashbhawsar) | suyashbhawsar@example.com
+  [LinkedIn](https://www.linkedin.com/in/suyashbhawsar) | suyash@devops-dynamics.com
 
 - ⚡ **Fun fact:**  
   Avid Arch Linux user and automation enthusiast.
