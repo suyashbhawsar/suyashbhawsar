@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-You say "Hello there!"  
+> You say "Hello there!"  
 They reply "General Kenobi!"  
 That's when you know... you're dealing with a fellow tech Jedi.
 
@@ -18,7 +18,7 @@ I'm **Suyash Bhawsar**, a **Freelance DevOps Engineer and Linux System Administr
   **Linux Administration** and **Cloud Automation** projects.
 
 - 📫 **Reach me at:**  
-  [LinkedIn](https://www.linkedin.com/in/suyashbhawsar) | suyash@devops-dynamics.com
+  [LinkedIn](https://www.linkedin.com/in/suyashbhawsar)
 
 - ⚡ **Fun fact:**  
   Avid Arch Linux user and automation enthusiast.
