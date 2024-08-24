@@ -1,5 +1,9 @@
 ### Hello there! 👋
 
+You say "Hello there!"  
+They reply "General Kenobi!"  
+That's when you know... you're dealing with a fellow tech Jedi.
+
 I'm **Suyash Bhawsar**, a **Freelance DevOps Engineer and Linux System Administrator** based in **Pune, India**. I specialize in cloud computing, automation, and building scalable infrastructure solutions.
 
 ---
