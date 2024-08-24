@@ -52,11 +52,9 @@ I'm **Suyash Bhawsar**, a **Freelance DevOps Engineer and Linux System Administr
 
 ### 📚 Ongoing Projects
 
-- **Device Management Automation**  
-  Puppet, Terraform, GCP, Docker
-
-- **GCP Terraform**  
-  Terraform, GCP
+- **Fleet Management System Development**  
+  - **Status:** In progress  
+  - **Technologies Used:** Puppet, Terraform, GitHub Actions, GCP, Ubuntu, Docker, BASH, Ansible
 
 ---
 
