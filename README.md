@@ -23,12 +23,26 @@ I'm **Suyash Bhawsar**, a **Freelance DevOps Engineer and Linux System Administr
 
 ### 🔧 Skills
 
-- **Linux Administration**
-- **Docker & Terraform**
-- **Ansible & Puppet**
-- **AWS & GCP**
-- **CI/CD:** Jenkins, GitHub Actions
-- **Programming:** Python, Bash
+- **Operating Systems:**  
+  Linux Administration
+
+- **Containerization & Orchestration:**  
+  Docker, Kubernetes
+
+- **Infrastructure as Code:**  
+  Terraform, Ansible, Puppet
+
+- **Cloud Platforms:**  
+  AWS, GCP
+
+- **CI/CD:**  
+  Jenkins, GitHub Actions
+
+- **Programming & Scripting:**  
+  Python, Bash
+
+- **Version Control:**  
+  Git
 
 ---
 
