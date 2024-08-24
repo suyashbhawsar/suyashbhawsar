@@ -22,9 +22,6 @@ I'm **Suyash Bhawsar**, a **Freelance DevOps Engineer and Linux System Administr
 - 📫 **How to reach me:**  
   You can connect with me on [LinkedIn](https://www.linkedin.com/in/suyashbhawsar) or drop me an email at suyashbhawsar@example.com.
 
-- 😄 **Pronouns:**  
-  He/Him
-
 - ⚡ **Fun fact:**  
   I'm an avid Arch Linux user and a huge fan of automating everything! I also founded the Linux Club at my college to share my love for open-source software.
 
